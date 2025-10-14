@@ -1,0 +1,101 @@
+document_id,clean_text,sentiment
+1,The product exceeded my expectations with its outstanding performance and quality.,positive
+2,An excellent study with innovative ideas and clear presentation.,positive
+3,The model achieved impressive accuracy and efficiency.,positive
+4,A remarkable contribution to the field of natural language processing.,positive
+5,The movie had a touching storyline and brilliant acting.,positive
+6,The research paper presents a novel and effective approach.,positive
+7,"The customer service was quick, polite, and helpful.",positive
+8,This framework simplifies complex workflows effectively.,positive
+9,I really enjoyed reading this abstract; it’s well-organized and clear.,positive
+10,The algorithm delivers fast and reliable results.,positive
+11,The data analysis was thorough and insightful.,positive
+12,Great improvement compared to previous models.,positive
+13,The concept is original and well supported by experiments.,positive
+14,A fantastic example of practical implementation in AI.,positive
+15,The product has excellent durability and elegant design.,positive
+16,The abstract clearly explains the main contributions.,positive
+17,Outstanding clarity and strong argumentation.,positive
+18,The software works flawlessly and exceeds expectations.,positive
+19,I appreciate the depth of analysis presented in this paper.,positive
+20,The review highlights the best aspects of the study.,positive
+21,This is a breakthrough in model interpretability.,positive
+22,The tool provides intuitive controls and beautiful visualization.,positive
+23,An inspiring work that pushes the boundaries of innovation.,positive
+24,The system achieves high efficiency and low cost.,positive
+25,Excellent use of data to support findings.,positive
+26,I highly recommend this study for anyone in data science.,positive
+27,The writing style is clear and engaging.,positive
+28,Positive user experience with seamless integration.,positive
+29,An outstanding paper that combines theory and practice.,positive
+30,The experiment results are strong and well-documented.,positive
+31,A creative solution to a challenging problem.,positive
+32,Very effective presentation of complex ideas.,positive
+33,Highly informative and well-structured.,positive
+34,Truly remarkable findings in the area of AI ethics.,positive
+35,The results were disappointing and did not meet the objectives.,negative
+36,The product broke within a week of use.,negative
+37,The paper lacks clarity and detailed explanation.,negative
+38,Poor implementation and inefficient methods.,negative
+39,The customer service was unhelpful and slow.,negative
+40,The movie was boring and lacked emotional depth.,negative
+41,The data quality was low and inconsistent.,negative
+42,A weak argument without sufficient evidence.,negative
+43,The model failed to perform as expected.,negative
+44,Frequent crashes make the software unreliable.,negative
+45,The abstract is confusing and poorly written.,negative
+46,Limited novelty and redundant results.,negative
+47,The visuals were dull and unappealing.,negative
+48,No significant improvements compared to baseline models.,negative
+49,The approach is too simplistic and lacks depth.,negative
+50,Inconsistent methodology and missing citations.,negative
+51,The review was biased and unbalanced.,negative
+52,Lack of experimental validation weakens the paper.,negative
+53,The interface design is outdated and confusing.,negative
+54,I found several grammatical errors throughout the paper.,negative
+55,The algorithm’s performance is far below standard.,negative
+56,This study fails to address the main research question.,negative
+57,The movie script was predictable and uninspired.,negative
+58,A disappointing outcome despite a promising start.,negative
+59,Results contradict previous work without justification.,negative
+60,Unnecessary complexity makes it hard to follow.,negative
+61,The evaluation metrics were not properly explained.,negative
+62,Incomplete dataset and unreliable conclusions.,negative
+63,No clear contributions or takeaways.,negative
+64,The experiment setup is flawed and lacks reproducibility.,negative
+65,The review was overly critical without reasoning.,negative
+66,Outdated references reduce credibility.,negative
+67,The proposed model underperforms on key benchmarks.,negative
+68,The paper describes a model for sentiment classification.,neutral
+69,This study focuses on comparing different optimization algorithms.,neutral
+70,"The dataset consists of 10,000 annotated samples.",neutral
+71,This work presents a summary of existing literature.,neutral
+72,The model was trained using a standard cross-validation technique.,neutral
+73,The product was delivered on time and packaged well.,neutral
+74,The authors provide an overview of their experimental setup.,neutral
+75,The research aims to improve classification accuracy.,neutral
+76,The data were collected from online sources and cleaned manually.,neutral
+77,This paper compares machine learning models for text prediction.,neutral
+78,The study outlines challenges in data preprocessing.,neutral
+79,The tool can process text data from various sources.,neutral
+80,The authors used Python for data processing and analysis.,neutral
+81,The research presents results for five different test cases.,neutral
+82,The dataset includes labeled reviews across multiple domains.,neutral
+83,The abstract discusses the main contributions briefly.,neutral
+84,A discussion on the pros and cons of transfer learning is included.,neutral
+85,The results are reported in tabular format.,neutral
+86,The work focuses on improving model interpretability.,neutral
+87,The study uses both qualitative and quantitative analysis.,neutral
+88,The proposed method is tested on benchmark datasets.,neutral
+89,Each review was annotated by two independent reviewers.,neutral
+90,The framework integrates multiple NLP components.,neutral
+91,This article introduces a novel pretraining technique.,neutral
+92,The software supports both Windows and Linux systems.,neutral
+93,Evaluation is based on accuracy and F1-score.,neutral
+94,The system architecture consists of three main modules.,neutral
+95,This research uses statistical methods for comparison.,neutral
+96,The paper ends with conclusions and future directions.,neutral
+97,The code is implemented in Python using open-source tools.,neutral
+98,The model is fine-tuned using pretrained embeddings.,neutral
+99,Results show stable performance across multiple runs.,neutral
+100,The abstract summarizes the key outcomes concisely.,neutral
